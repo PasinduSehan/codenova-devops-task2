@@ -34,3 +34,6 @@ codenova-devops-task2/
 ├── LICENSE                   # MIT License
 ├── package.json              # Project dependencies and scripts
 └── README.md                 # Pipeline documentation & status badge
+
+
+<img width="1366" height="768" alt="Screenshot (574)" src="https://github.com/user-attachments/assets/1ae56cc9-da77-474c-85ce-37be87bbae61" />
