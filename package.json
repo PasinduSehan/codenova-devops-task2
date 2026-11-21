@@ -1,0 +1,14 @@
+{
+  "name": "codenova-devops-task2",
+  "version": "1.0.0",
+  "description": "Automated Multi-Version CI Testing Pipeline",
+  "main": "src/calculator.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint src/ tests/"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "jest": "^29.7.0"
+  }
+}
